@@ -1,4 +1,4 @@
-# ⚡ Hello, I'm mzRefa
+# ⚡ Hello, I'm Masrur
 ### AI Engineer | Embedded Systems | Game Developer
 
 I specialize in the engineering of high-performance, real-time systems. My work focuses on bridging the gap between high-level AI models and low-level hardware constraints, ensuring that intelligence is both fast and deployable.
